@@ -2,7 +2,7 @@
 <font>
     <fontType>
 	    <fontName>maimengzuosi</fontName>
-	    <fontSize>12M</fontSize>
+	    <fontSize>6M</fontSize>
 	    <fontNamePic></fontNamePic>
 	    <fontNamePicUri></fontNamePicUri>
 	    <pictureNames></pictureNames>
@@ -17,6 +17,17 @@
 	    <fontNamePicUri></fontNamePicUri>
 	    <pictureNames></pictureNames>
 	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/jiangnandiao.apk</fontUri>
+	    
+	    <pictureUri></pictureUri>
+    </fontType>
+	
+	<fontType>
+	    <fontName>pangzhonghuaxingshu</fontName>
+	    <fontSize>7M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri></fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/pangzhonghuaxingshu.apk</fontUri>
 	    
 	    <pictureUri></pictureUri>
     </fontType>
