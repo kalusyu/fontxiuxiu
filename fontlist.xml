@@ -9,17 +9,6 @@
 	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/maimengzuosi.apk</fontUri>
 	    <pictureUri></pictureUri>
     </fontType>
-    
-    <fontType>
-	    <fontName>jiangnandiao</fontName>
-	    <fontSize>1M</fontSize>
-	    <fontNamePic></fontNamePic>
-	    <fontNamePicUri></fontNamePicUri>
-	    <pictureNames></pictureNames>
-	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/jiangnandiao.apk</fontUri>
-	    
-	    <pictureUri></pictureUri>
-    </fontType>
 	
 	<fontType>
 	    <fontName>pangzhonghuaxingshu</fontName>
