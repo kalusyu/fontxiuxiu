@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <font>
     <fontType>
-	    <fontName>maimengzuosi</fontName>
+		<fontDisplayName>卖萌作死</fontDisplayName>
+	    <fontName>maimeng</fontName>
 	    <fontSize>6M</fontSize>
 	    <fontNamePic></fontNamePic>
 	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/maimengzuosi.png</fontNamePicUri>
@@ -11,6 +12,7 @@
     </fontType>
 	
 	<fontType>
+		<fontDisplayName>庞中华行书</fontDisplayName>
 	    <fontName>pangzhonghuaxingshu</fontName>
 	    <fontSize>7M</fontSize>
 	    <fontNamePic></fontNamePic>
@@ -21,6 +23,7 @@
     </fontType>
 	
 	<fontType>
+		<fontDisplayName>美丽心情</fontDisplayName>
 	    <fontName>meilixinqing</fontName>
 	    <fontSize>9M</fontSize>
 	    <fontNamePic></fontNamePic>
