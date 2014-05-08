@@ -20,4 +20,14 @@
 	    
 	    <pictureUri></pictureUri>
     </fontType>
+	
+	<fontType>
+	    <fontName>meilixinqing</fontName>
+	    <fontSize>9M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri></fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/meilixinqing.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
 </font>
