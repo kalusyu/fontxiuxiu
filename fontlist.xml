@@ -32,4 +32,26 @@
 	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/meilixinqing.apk</fontUri>
 	    <pictureUri></pictureUri>
     </fontType>
+	
+	<fontType>
+		<fontDisplayName>华康少女</fontDisplayName>
+	    <fontName>huakangshaonv</fontName>
+	    <fontSize>2M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/huakangshaonv.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/huakangshaonv.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	
+	<fontType>
+		<fontDisplayName>娃娃字体</fontDisplayName>
+	    <fontName>wawa</fontName>
+	    <fontSize>8M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/wawa.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/wawa.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
 </font>
