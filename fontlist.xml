@@ -54,4 +54,15 @@
 	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/wawa.apk</fontUri>
 	    <pictureUri></pictureUri>
     </fontType>
+	
+	<fontType>
+		<fontDisplayName>桃心下午茶</fontDisplayName>
+	    <fontName>taoxinxiawucha</fontName>
+	    <fontSize>10M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/taoxinxiawucha.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/taoxinxiawucha.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
 </font>
