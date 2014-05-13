@@ -65,4 +65,59 @@
 	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/taoxinxiawucha.apk</fontUri>
 	    <pictureUri></pictureUri>
     </fontType>
+	
+	<fontType>
+		<fontDisplayName>蝴蝶结kitty字体</fontDisplayName>
+	    <fontName>hudiejiekitty</fontName>
+	    <fontSize>8M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/hudiejiekitty.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/hudiejiekitty.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	
+	<fontType>
+		<fontDisplayName>潇洒体</fontDisplayName>
+	    <fontName>xiaosa</fontName>
+	    <fontSize>7M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xiaosa.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xiaosa.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	
+	<fontType>
+		<fontDisplayName>星星蝴蝶心</fontDisplayName>
+	    <fontName>xingxinghudiexin</fontName>
+	    <fontSize>6M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xingxinghudiexin.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xingxinghudiexin.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	
+	<fontType>
+		<fontDisplayName>雅芳美工</fontDisplayName>
+	    <fontName>yafangmeigong</fontName>
+	    <fontSize>8M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/yafangmeigong.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/yafangmeigong.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	
+	<fontType>
+		<fontDisplayName>衣架字体</fontDisplayName>
+	    <fontName>yijiaziti</fontName>
+	    <fontSize>6M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/yijiaziti.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/yijiaziti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
 </font>
