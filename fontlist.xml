@@ -21,6 +21,56 @@
 	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xiancaitizhongwen.apk</fontUri>
 	    <pictureUri></pictureUri>
     </fontType>
+	<fontType>
+		<fontDisplayName>宝风体</fontDisplayName>
+	    <fontName>baofengti</fontName>
+	    <fontSize>9M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/baofengti.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/baofengti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>方正小篆体</fontDisplayName>
+	    <fontName>fangzhengxiaozhuanti</fontName>
+	    <fontSize>3M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/fangzhengxiaozhuanti.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/fangzhengxiaozhuanti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>丁丁体</fontDisplayName>
+	    <fontName>dingdingti</fontName>
+	    <fontSize>14M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/dingdingti.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/dingdingti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>方正粗圆</fontDisplayName>
+	    <fontName>fangzhengcuyuan</fontName>
+	    <fontSize>5M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/fangzhengcuyuan.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/fangzhengcuyuan.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>方正少儿</fontDisplayName>
+	    <fontName>fangzhengshaoer</fontName>
+	    <fontSize>6M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/fangzhengshaoer.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/fangzhengshaoer.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
     <fontType>
 		<fontDisplayName>卖萌作死</fontDisplayName>
 	    <fontName>maimeng</fontName>
