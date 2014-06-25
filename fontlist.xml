@@ -2,6 +2,16 @@
 <font>
 
 	<fontType>
+		<fontDisplayName>浪漫雅园</fontDisplayName>
+	    <fontName>langmanyayuan</fontName>
+	    <fontSize>5M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/langmanyayuan.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/langmanyayuan.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
 		<fontDisplayName>情书体</fontDisplayName>
 	    <fontName>qingshuti</fontName>
 	    <fontSize>5M</fontSize>
