@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <font>
-
+	<fontType>
+		<fontDisplayName>幸福四叶草</fontDisplayName>
+	    <fontName>xingfusiyecao</fontName>
+	    <fontSize>2M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xingfusiyecao.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xingfusiyecao.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>方正隶变简体</fontDisplayName>
+	    <fontName>fangzhenglibianjianti</fontName>
+	    <fontSize>2M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/fangzhenglibianjianti.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/fangzhenglibianjianti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>DroidSansFallback</fontDisplayName>
+	    <fontName>DroidSansFallback</fontName>
+	    <fontSize>2M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/DroidSansFallback.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/DroidSansFallback.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>方正琥珀简体</fontDisplayName>
+	    <fontName>fangzhenghupojianti</fontName>
+	    <fontSize>2M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/fangzhenghupojianti.png</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/fangzhenghupojianti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
 	<fontType>
 		<fontDisplayName>浪漫雅园</fontDisplayName>
 	    <fontName>langmanyayuan</fontName>
