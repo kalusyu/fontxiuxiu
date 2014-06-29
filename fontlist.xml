@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <font>
 	<fontType>
+		<fontDisplayName>兔子馒头体</fontDisplayName>
+	    <fontName>tuzimantou</fontName>
+	    <fontSize>8M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/tuzimantou.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/tuzimantou.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
 		<fontDisplayName>方正卡通</fontDisplayName>
 	    <fontName>fangzhengkatong</fontName>
 	    <fontSize>2M</fontSize>
