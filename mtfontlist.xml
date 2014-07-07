@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <font>
 	<fontType>
+		<fontDisplayName>咸菜手指体</fontDisplayName>
+	    <fontName>xcsz</fontName>
+	    <fontSize>6M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xcsz.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xcsz.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
 		<fontDisplayName>方正喵呜体</fontDisplayName>
 	    <fontName>fangzhengmiaowu</fontName>
 	    <fontSize>4M</fontSize>
