@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <font>
 	<fontType>
+		<fontDisplayName>暖色军-豆子体</fontDisplayName>
+	    <fontName>douziti</fontName>
+	    <fontSize>10M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/douziti.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/douziti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>卡通合并</fontDisplayName>
+	    <fontName>katonghebing</fontName>
+	    <fontSize>3M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/katonghebing.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/katonghebing.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
 		<fontDisplayName>咸菜手指体</fontDisplayName>
 	    <fontName>xcsz</fontName>
 	    <fontSize>6M</fontSize>
