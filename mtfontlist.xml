@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <font>
 	<fontType>
+		<fontDisplayName>新蒂下午茶</fontDisplayName>
+	    <fontName>xindixiawucha</fontName>
+	    <fontSize>3M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xindixiawucha.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xindixiawucha.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>樱桃饭团</fontDisplayName>
+	    <fontName>yintaofantuan</fontName>
+	    <fontSize>6M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/yintaofantuan.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/yintaofantuan.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>优雅连体字体</fontDisplayName>
+	    <fontName>youyaliantiziti</fontName>
+	    <fontSize>11M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/youyaliantiziti.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/youyaliantiziti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>幼稚园</fontDisplayName>
+	    <fontName>huakangshoujinti</fontName>
+	    <fontSize>8M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/youzhiyuan.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/youzhiyuan.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>柚子的香吻</fontDisplayName>
+	    <fontName>youzidexiangwen</fontName>
+	    <fontSize>6M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/youzidexiangwen.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/youzidexiangwen.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
 		<fontDisplayName>华康瘦金体</fontDisplayName>
 	    <fontName>huakangshoujinti</fontName>
 	    <fontSize>3M</fontSize>
