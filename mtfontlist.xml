@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <font>
 	<fontType>
+		<fontDisplayName>下午茶加粗</fontDisplayName>
+	    <fontName>xiawuchajiacu</fontName>
+	    <fontSize>4M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xiawuchajiacu.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xiawuchajiacu.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>歪脖子字体</fontDisplayName>
+	    <fontName>waiboziziti</fontName>
+	    <fontSize>6M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/waiboziziti.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/waiboziziti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>小花字体</fontDisplayName>
+	    <fontName>xiaohuaziti</fontName>
+	    <fontSize>7M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xiaohuaziti.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xiaohuaziti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>小可爱字体</fontDisplayName>
+	    <fontName>xiaokeaiziti</fontName>
+	    <fontSize>7M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xiaokeaiziti.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xiaokeaiziti.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
+		<fontDisplayName>心心喵呜</fontDisplayName>
+	    <fontName>xinxinmiaowu</fontName>
+	    <fontSize>8M</fontSize>
+	    <fontNamePic></fontNamePic>
+	    <fontNamePicUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xinxinmiaowu.jpg</fontNamePicUri>
+	    <pictureNames></pictureNames>
+	    <fontUri>https://github.com/kalusyu/fontxiuxiu/raw/master/xinxinmiaowu.apk</fontUri>
+	    <pictureUri></pictureUri>
+    </fontType>
+	<fontType>
 		<fontDisplayName>新蒂下午茶</fontDisplayName>
 	    <fontName>xindixiawucha</fontName>
 	    <fontSize>3M</fontSize>
